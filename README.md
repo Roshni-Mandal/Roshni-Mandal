@@ -76,3 +76,13 @@ Here are some ideas to get you started:
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 </p> -->
+
+
+### Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Roshni-Mandal&theme=tokyonight&count_private=true)
+![Roshni's github stats](https://github-readme-stats.vercel.app/api?username=Roshni-Mandal&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)<br>
+<a href="https://github.com/Roshni-Mandal/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshni-Mandal&layout=compact&theme=buefy&hide_border=true" /></a>
+<!--
+![Roshni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Roshni-Mandal&layout=compact)
+-->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Roshni-Mandal&theme=github&count_private=true)
