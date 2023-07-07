@@ -1,4 +1,4 @@
-<img src="https://github.com/Roshni-Mandal/Blood-Bank/blob/main/screenshoot/roshni.png?raw=true">
+<img src="https://github.com/Roshni-Mandal/Blood_Bank/blob/main/screenshots/roshni.png?raw=true">
 
 <!--
 **Roshni-Mandal/Roshni-Mandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
