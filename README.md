@@ -85,4 +85,4 @@ Here are some ideas to get you started:
 <!--
 ![Roshni's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Roshni-Mandal&layout=compact)
 -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Roshni-Mandal&theme=github&count_private=true)
+[![Roshni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Roshni-Mandal&bg_color=ffffff&color=9e4c98&line=2c2a2c&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
