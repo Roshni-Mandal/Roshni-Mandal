@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **roshnimandal55@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nGdBXDje9D6lzSvd2lP8k7kMyhr_BsAn/view?usp=drive_link)
+<!-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1nGdBXDje9D6lzSvd2lP8k7kMyhr_BsAn/view?usp=drive_link) -->
 
 <!-- ⚡ Fun fact **I love cooking XD** -->
 
